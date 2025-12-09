@@ -42,7 +42,7 @@ Quanto maior a renda média de um estado, menor tende a ser sua taxa de mortalid
 
 Mesmo com variações de intensidade ao longo dos anos, o padrão permaneceu estável.
 
- Impacto da pandemia
+ Impacto da pandemia:
 
 Entre 2020 e 2021 houve aumento significativo na mortalidade infantil, especialmente em estados de menor renda — confirmando que populações vulneráveis foram mais afetadas.
 
