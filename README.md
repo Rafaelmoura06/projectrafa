@@ -50,13 +50,13 @@ Fatores indiretos
 
 A renda não é o único determinante. Fatores como:
 
--saneamento básico
+- saneamento básico
 
--acesso a serviços de saúde
+- acesso a serviços de saúde
 
--educação
+- educação
 
--infraestrutura
+- infraestrutura
 
 ## Discussão
 
@@ -69,13 +69,13 @@ Embora a correlação identificada não prove causalidade, ela aponta que a rend
 Entre 2019 e 2024, houve relação negativa clara entre renda média e mortalidade infantil no Brasil.
 Regiões com menor renda apresentaram taxas mais altas de mortalidade, reforçando a necessidade de políticas públicas focadas em:
 
--aumento da renda familiar
+- aumento da renda familiar
 
--ampliação do saneamento básico
+- ampliação do saneamento básico
 
--fortalecimento da saúde pública
+- fortalecimento da saúde pública
 
--redução das desigualdades regionais
+- redução das desigualdades regionais
 
 Este estudo contribui para o entendimento das desigualdades socioeconômicas brasileiras e pode servir como base para futuras análises e projetos de políticas públicas.
 
