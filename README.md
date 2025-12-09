@@ -12,7 +12,7 @@ Para isso, foram utilizados dados públicos de renda (IBGE – PNAD Contínua) e
 Estados e regiões com menores rendas médias apresentam taxas de mortalidade proporcionalmente maiores, devido às condições de vulnerabilidade socioeconômica — como menor acesso à saúde, saneamento e prevenção de doenças.
 
 ## Metodologia e Ferramentas
-##Ferramentas
+## Ferramentas
 
 Python: Linguagem utilizada para todo o processamento.
 
@@ -58,7 +58,7 @@ educação
 
 infraestrutura
 
-##Discussão
+## Discussão
 
 A pesquisa confirma tendências já observadas em estudos nacionais: a desigualdade econômica tem impacto direto nos indicadores de saúde infantil.
 
