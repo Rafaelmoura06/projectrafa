@@ -1,6 +1,6 @@
 ## projeto_mortalidade_renda
 Análise da Relação entre Renda Média e Taxa de Mortalidade no Brasil (2019–2024)
-Introdução
+## Introdução
 
 Este trabalho analisa a relação entre a renda média da população brasileira e a taxa de mortalidade no período de 2019 a 2024.
 A proposta central é compreender como diferenças socioeconômicas influenciam a saúde pública, destacando desigualdades regionais e efeitos pós-pandemia.
